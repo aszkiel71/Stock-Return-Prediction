@@ -1,1 +1,1 @@
-# Stock-Return-Prediction
+# Quantitative Stock Return Prediction [IN DEVELOPMENT]
